@@ -32,7 +32,7 @@ youtube_username: dardeery
 
 # Additional icon links
 additional_links:
- title: itsgoingto.be
+- title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
 # - title: another link
