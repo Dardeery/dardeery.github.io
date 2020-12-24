@@ -21,7 +21,7 @@ github_username:  dardeery
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: dardeery
+instagram_username: idardeery
 linkedin_username: dardeery
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -31,10 +31,10 @@ youtube_username: dardeery
 
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,18 +52,18 @@ about_content: | # this will include new lines to allow paragraphs
  Data Analyst with more than 7 years of experience in Business Intelligence and data visualization domains. Deep expertise in data analysis and progressive experience in developing Data Visualizations and Interactive Dashboards with KPI’s that provide strategic Information to key business stakeholders across Financial, Pharmaceutical and Supply chain sectors using advanced BI tools such as Tableau and Power BI and analyze it via Python and SQL. ☕ Let's connect!
 
 
-   title: Experience # Title for the section
+title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+   content:
         layout: left
-        title: Fidor Bank AG
-        link: fidor.de
+         title: Fidor Bank AG
+          link: fidor.de
         # link_text: boringcompany.com
-        sub_title: Data Operation Expert
-        caption: Feb 2018 - Present
+     sub_title: Data Operation Expert
+       caption: Feb 2018 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description:  # this will include new lines to allow paragraphs
+   description:  # this will include new lines to allow paragraphs
         - Handle daily tasks in Data Analytics topics and deliver reports to various business units
         - Schedule, Automate and standardize Ad hoc and regulatory reporting delivery.
         - Design data architecture and implementation for Fidor Bank in close alignment with the Data lead and the technical teams
