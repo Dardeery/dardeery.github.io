@@ -71,7 +71,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          this project is a part of creating an Algo-trading tool helps out in having a better more precise price detection of the financial market prices based on many factors.  
 
-  - title: Experience # Title for the section
+   title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
         layout: left
