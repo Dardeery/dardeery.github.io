@@ -61,8 +61,8 @@ content:
             # link_text: Project Website
            additional_links:
                title:  Does-Sentiment-affect-Bitcoin-Prices-
-                icon: fab fa-github
-                url: github.com/Dardeery/Does-Sentiment-affect-Bitcoin-Prices-
+               icon: fab fa-github
+               url: github.com/Dardeery/Does-Sentiment-affect-Bitcoin-Prices-
               # - title:  Github page for project (eg. sproogen/modern-resume-theme)
               #   icon: fab fa-github
               #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
