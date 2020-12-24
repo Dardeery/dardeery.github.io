@@ -51,25 +51,6 @@ about_profile_image: images/my_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Data Analyst with more than 7 years of experience in Business Intelligence and data visualization domains. Deep expertise in data analysis and progressive experience in developing Data Visualizations and Interactive Dashboards with KPI’s that provide strategic Information to key business stakeholders across Financial, Pharmaceutical and Supply chain sectors using advanced BI tools such as Tableau and Power BI and analyze it via Python and SQL. ☕ Let's connect!
 
-content:
-    title: projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-           layout: top-middle
-           title: Sentiments of Bitcoin
-           link: https://github.com/Dardeery/
-            # link_text: Project Website
-           additional_links:
-               title:  Does-Sentiment-affect-Bitcoin-Prices-
-               icon: fab fa-github
-               url: github.com/Dardeery/Does-Sentiment-affect-Bitcoin-Prices-
-              # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-              #   icon: fab fa-github
-              #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-            quote: >
-             this project tries to predict Bitcoin prices based on the sentiments on the internet
-            description: | # this will include new lines to allow paragraphs
-             this project is a part of creating an Algo-trading tool helps out in having a better more precise price detection of the financial market prices based on many factors.  
 
    title: Experience # Title for the section
     layout: list # Type of content section (list/text)
