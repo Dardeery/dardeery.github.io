@@ -9,7 +9,7 @@ version: 2
 name: Islam Dardeery
 title: Data Operation Expert
 email: idardeery@live.com
-website:dardeery.github.io
+website: dardeery.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -88,7 +88,22 @@ content:
         • Design data architecture and implementation for Fidor Bank in close alignment with the Data lead and the technical teams
         • Report Dashboards to different business units using Tableau and python.
         • Analyze Bank data to generate insights to improve customer experience, increase revenue and reduce costs and risk.
-
+        
+        
+      - layout: left
+        title: Roche
+        link: roche.de
+        # link_text: boringcompany.com
+        sub_title: Data Analyst
+        caption: Aug 2017 - Jan 2018
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+        • Coordinate in mapping Value Stream activity for the site and across the network where multi-site manufacturing takes place.
+        • Support the operational excellence department in designing and optimizing production and packaging data.
+        • Monitor performance, collect and analyze data in order to recognize process inefficiencies and potential problem areas.
+        • Actively encourage, promote and facilitate the implementation of creative solutions to ensure quality while delivering lower costs and shorter lead times.
+        • Work with global partners and functional business partners to establish efficient, consistent and seamless process execution globally.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
