@@ -32,7 +32,7 @@ youtube_username: dardeery
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+ title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
 # - title: another link
@@ -52,15 +52,15 @@ about_content: | # this will include new lines to allow paragraphs
  Data Analyst with more than 7 years of experience in Business Intelligence and data visualization domains. Deep expertise in data analysis and progressive experience in developing Data Visualizations and Interactive Dashboards with KPI’s that provide strategic Information to key business stakeholders across Financial, Pharmaceutical and Supply chain sectors using advanced BI tools such as Tableau and Power BI and analyze it via Python and SQL. ☕ Let's connect!
 
 content:
-  - title: Projects # Title for the section
+   title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+       layout: top-middle
         title: Sentiments of Bitcoin
         link: https://github.com/Dardeery/
         # link_text: Project Website
         additional_links:
-          - title:  Does-Sentiment-affect-Bitcoin-Prices-
+           title:  Does-Sentiment-affect-Bitcoin-Prices-
             icon: fab fa-github
             url: github.com/Dardeery/Does-Sentiment-affect-Bitcoin-Prices-
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -104,10 +104,10 @@ content:
         - Monitor performance, collect and analyze data in order to recognize process inefficiencies and potential problem areas.
         - Actively encourage, promote and facilitate the implementation of creative solutions to ensure quality while delivering lower costs and shorter lead times.
         - Work with global partners and functional business partners to establish efficient, consistent and seamless process execution globally.
-  - title: Education # Title for the section
+   title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+       layout: left
         title: Harvard University
         caption: 2010 - 2013
         sub_title: BSc Computer Science
@@ -118,7 +118,7 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
