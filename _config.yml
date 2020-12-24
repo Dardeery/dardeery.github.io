@@ -56,10 +56,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
            layout: top-middle
-            title: Sentiments of Bitcoin
-            link: https://github.com/Dardeery/
+           title: Sentiments of Bitcoin
+           link: https://github.com/Dardeery/
             # link_text: Project Website
-            additional_links:
+           additional_links:
                title:  Does-Sentiment-affect-Bitcoin-Prices-
                 icon: fab fa-github
                 url: github.com/Dardeery/Does-Sentiment-affect-Bitcoin-Prices-
