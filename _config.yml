@@ -1,6 +1,6 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository:sproogen/resume-theme
+favicon:images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -23,27 +23,7 @@ github_username:  dardeery
 # flickr_username: jekyll
 instagram_username: idardeery
 linkedin_username: dardeery
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: dardeery
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
-
-# Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -85,6 +65,28 @@ title: Experience # Title for the section
         - Monitor performance, collect and analyze data in order to recognize process inefficiencies and potential problem areas.
         - Actively encourage, promote and facilitate the implementation of creative solutions to ensure quality while delivering lower costs and shorter lead times.
         - Work with global partners and functional business partners to establish efficient, consistent and seamless process execution globally.
+        
+content:
+    title: projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+           layout: top-middle
+           title: Sentiments of Bitcoin
+           link: https://github.com/Dardeery/
+            # link_text: Project Website
+           additional_links:
+               title:  Does-Sentiment-affect-Bitcoin-Prices-
+               icon: fab fa-github
+               url: github.com/Dardeery/Does-Sentiment-affect-Bitcoin-Prices-
+              # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+              #   icon: fab fa-github
+              #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            quote: >
+             this project tries to predict Bitcoin prices based on the sentiments on the internet
+            description: | # this will include new lines to allow paragraphs
+             this project is a part of creating an Algo-trading tool helps out in having a better more precise price detection of the financial market prices based on many factors.  
+
+
    title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
