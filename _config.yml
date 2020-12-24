@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
  Data Analyst with more than 7 years of experience in Business Intelligence and data visualization domains. Deep expertise in data analysis and progressive experience in developing Data Visualizations and Interactive Dashboards with KPI’s that provide strategic Information to key business stakeholders across Financial, Pharmaceutical and Supply chain sectors using advanced BI tools such as Tableau and Power BI and analyze it via Python and SQL. ☕ Let's connect!
 
 content:
-   title: Projects # Title for the section
+ - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
        layout: top-middle
