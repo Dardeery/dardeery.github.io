@@ -90,47 +90,55 @@ content:
              - Analyze Bank data to generate insights to improve customer experience, increase revenue and reduce costs and risk.
    
 
+
       - layout: left
         title: Roche
         link: roche.de
         # link_text: boringcompany.com
         sub_title: Data analyst
+        caption: Aug 2017 - Jan 2018
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             - Coordinate in mapping Value Stream activity for the site and across the network where multi-site manufacturing takes place.
+             - Support the operational excellence department in designing and optimizing production and packaging data.
+             - Monitor performance, collect and analyze data in order to recognize process inefficiencies and potential problem areas.
+             - Actively encourage, promote and facilitate the implementation of creative solutions to ensure quality while delivering lower costs and shorter lead times.
+             - Work with global partners and functional business partners to establish efficient, consistent and seamless process execution globally.
+      
+      - layout: left
+        title: Ministry of Investment
+        link: moic.gov.eg
+        # link_text: boringcompany.com
+        sub_title: Senior 
         caption: Feb 2018 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             - Handle daily tasks in Data Analytics topics and deliver reports to various business units
-             - Schedule, Automate and standardize Ad hoc and regulatory reporting delivery.
-             - Design data architecture and implementation for Fidor Bank in close alignment with the Data lead and the technical teams
-             - Report Dashboards to different business units using Tableau and python.
-             - Analyze Bank data to generate insights to improve customer experience, increase revenue and reduce costs and risk.
+             - Use SQL, R, Excel, Power BI and other internal tools to build an analytical framework.
+             - Evaluate project effectiveness and to write policy briefs to the Minister regarding the performance of the World Bank’s portfolio.
+             - Assist in Increasing the accuracy of direction setting and planning future projects with predictive modeling. 
+             - Ensure effective coordination, leverage synergies, as well as mobilize resources, foster joint activities, and partnership between the World Bank and different stakeholders.
+  
+
+
 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        title: Marburg University
+        caption: 2013 - 2016
+        sub_title: MSc. Economics
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #description: | # this will include new lines to allow paragraphs
+         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+      - layout: left
+        title: Cairo University
+        caption: 2008 - 20011
+        sub_title: Bsc. Economics and Computer
 
 # Footer
 footer_show_references: true
