@@ -48,22 +48,21 @@ linkedin_username: dardeery
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Dardeery and I'm a Data Analyst and data visualizer. I create deep analytics and Interactive Dashboards with KPI’s that provide strategic Information to key business stakeholders across Financial, Pharmaceutical and Supply chain sectors using advanced BI tools such as Tableau and Power BI and analyze it via Python and SQL. ☕ Let's connect!
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Sentiments of Bitcoin
+        
+        link: https://github.com/Dardeery/
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Does-Sentiment-affect-Bitcoin-Prices-
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/Dardeery//Does-Sentiment-affect-Bitcoin-Prices-
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
