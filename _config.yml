@@ -87,8 +87,25 @@ content:
              - Schedule, Automate and standardize Ad hoc and regulatory reporting delivery.
              - Design data architecture and implementation for Fidor Bank in close alignment with the Data lead and the technical teams
              - Report Dashboards to different business units using Tableau and python.
-             - Analyze Bank data to generate insights to improve customer experience, increase revenue and reduce costs and risk.|
+             - Analyze Bank data to generate insights to improve customer experience, increase revenue and reduce costs and risk.
    
+
+    content:
+      - layout: left
+        title: Roche
+        link: roche.de
+        # link_text: boringcompany.com
+        sub_title: Data analyst
+        caption: Feb 2018 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             - Handle daily tasks in Data Analytics topics and deliver reports to various business units
+             - Schedule, Automate and standardize Ad hoc and regulatory reporting delivery.
+             - Design data architecture and implementation for Fidor Bank in close alignment with the Data lead and the technical teams
+             - Report Dashboards to different business units using Tableau and python.
+             - Analyze Bank data to generate insights to improve customer experience, increase revenue and reduce costs and risk.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
