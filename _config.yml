@@ -124,7 +124,7 @@ content:
       - layout: top-middle
         title: Sentiments of Bitcoin
         
-        link: https://github.com/Dardeery/
+        #link: https://github.com/Dardeery/
         # link_text: Project Website
         additional_links:
           - title:  Does-Sentiment-affect-Bitcoin-Prices-
@@ -142,7 +142,7 @@ content:
       - layout: top-middle
         title: Analysis of a Twitter account
         
-        link: https://github.com/Dardeery/
+        #link: https://github.com/Dardeery/
         # link_text: Project Website
         additional_links:
           - title:  WeRateDogs-Tweets-analysis
