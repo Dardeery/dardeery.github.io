@@ -138,6 +138,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           this project is a part of creating an Algo-trading tool helps out in having a better more precise price detection of the financial market prices based on many factors. 
 
+    content:
+      - layout: top-middle
+        title: Analysis of a Twitter account
+        
+        link: https://github.com/Dardeery/
+        # link_text: Project Website
+        additional_links:
+          - title:  WeRateDogs-Tweets-analysis
+            icon: fab fa-github
+            url: github.com/Dardeery//WeRateDogs-Tweets-analysis
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          this project aims to analyse the tweets of a Twitter account over a time span of two years.
+        
 
 # Footer
 footer_show_references: true
