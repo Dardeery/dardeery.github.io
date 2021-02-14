@@ -167,7 +167,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          In this project, I am exploring the data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
+          In this project, I am exploring the data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington
 
 # Footer
 footer_show_references: true
