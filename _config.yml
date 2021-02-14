@@ -156,19 +156,19 @@ content:
  
  
       - layout: top-middle
-        title: Analysis of a Twitter account
+        title: Analysis of Bike Sharing data in the US
         
         #link: https://github.com/Dardeery/
         # link_text: Project Website
         additional_links:
-          - title:  WeRateDogs-Tweets-analysis
+          - title:  exploring-US-bikesharing
             icon: fab fa-github
-            url: github.com/Dardeery//WeRateDogs-Tweets-analysis
+            url: github.com/Dardeery//exploring-US-bikesharing
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          this project aims to analyse the tweets of a Twitter account over a time span of two years.
+          this project aims to Exploring Motivate Startup bike sharing data across different states in the United States.
        
 # Footer
 footer_show_references: true
