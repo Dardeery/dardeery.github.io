@@ -154,21 +154,7 @@ content:
         quote: >
           this project aims to analyse the tweets of a Twitter account over a time span of two years.
  
-       - layout: top-middle
-        title: Exploring Bike Sharing in major US cities
-        
-        #link: https://github.com/Dardeery/
-        # link_text: Project Website
-        additional_links:
-          - title:  exploring-US-bikesharing
-            icon: fab fa-github
-            url: github.com/Dardeery//exploring-US-bikesharing
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          In this project, I am exploring the data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington
-
+       
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
