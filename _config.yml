@@ -57,7 +57,7 @@ content:
     content:
       - layout: left
         title: Fidor Bank AG
-        link: fidor.de
+        link: fidor.de 
         # link_text: boringcompany.com
         sub_title: Data Operation Expert
         caption: Feb 2018 - Present
