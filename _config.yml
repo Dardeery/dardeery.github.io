@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Shymaa Dardeery
-title: Voice Over
-email: sh.dardeery@gmail.com
+name: Islam Dardeery
+title: Data Engineer
+email: idardeery@live.com
 website: dardeery.github.io
 
 # Dark Mode (true/false/never)
@@ -48,19 +48,34 @@ linkedin_username: dardeery
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dardeery and I'm a Data Analyst and data visualizer. I create deep analytics and Interactive Dashboards with KPI’s that provide strategic Information to key business stakeholders across Financial, Pharmaceutical and Supply chain sectors using advanced BI tools such as Tableau and Power BI and analyze it via Python and SQL. ☕ Let's connect!
+  Hi, my name's Dardeery and I'm a Data Engineer/Analyst. I create deep analytics and Interactive Dashboards with KPI’s that provide strategic Information to key business stakeholders across Financial, Pharmaceutical and Supply chain sectors using advanced BI tools such as Tableau and Power BI and analyze it via Python and SQL. ☕ Let's connect!
 
 content:
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: left
+        title: MediaMarktSaturn
+        link: https://mediamarktsaturn.com/
+        # link_text: boringcompany.com
+        sub_title: Data Engineer
+        caption: Aug 2021 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             - strategies based on market trends and competitor analysis.
+             - Design and implement data solutions for subscription services, including user demographics, usage patterns, and personalized recommendations.
+             - Create analytical models to measure the effectiveness of branded services, tracking key performance indicators and identifying opportunities for enhancement.
+             - Utilize technologies like SQL, Python, Spark, and different GCP services for data processing and analysis, ensuring compliance with data governance policies.
+             - Collaborate with cross-functional teams to integrate data-driven insights into decision-making processes, contributing to the overall data architecture and infrastructure roadmap.
+
       - layout: left
         title: Fidor Bank AG
         link: fidor.de 
         # link_text: boringcompany.com
         sub_title: Data Operation Expert
-        caption: Feb 2018 - Present
+        caption: Aug 2017 - Aug 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -70,35 +85,18 @@ content:
              - Report Dashboards to different business units using Tableau and python.
              - Analyze Bank data to generate insights to improve customer experience, increase revenue and reduce costs and risk.
    
-
-
-      - layout: left
-        title: Roche
-        link: roche.de
-        # link_text: boringcompany.com
-        sub_title: Data analyst
-        caption: Aug 2017 - Jan 2018
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-             - Coordinate in mapping Value Stream activity for the site and across the network where multi-site manufacturing takes place.
-             - Support the operational excellence department in designing and optimizing production and packaging data.
-             - Monitor performance, collect and analyze data in order to recognize process inefficiencies and potential problem areas.
-             - Actively encourage, promote and facilitate the implementation of creative solutions to ensure quality while delivering lower costs and shorter lead times.
-             - Work with global partners and functional business partners to establish efficient, consistent and seamless process execution globally.
-      
       - layout: left
         title: Ministry of Investment
         link: moic.gov.eg
         # link_text: boringcompany.com
-        sub_title: Senior 
-        caption: Feb 2018 - Present
+        sub_title: Senior Program Specialist
+        caption: Sept 2014 - Aug 2017
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
              - Use SQL, R, Excel, Power BI and other internal tools to build an analytical framework.
              - Evaluate project effectiveness and to write policy briefs to the Minister regarding the performance of the World Bank’s portfolio.
-             - Assist in Increasing the accuracy of direction setting and planning future projects with predictive modeling. 
+             - Assist in Increasing the accuracy of direction setting and planning future projects with predictive modeling.
              - Ensure effective coordination, leverage synergies, as well as mobilize resources, foster joint activities, and partnership between the World Bank and different stakeholders.
   
 
