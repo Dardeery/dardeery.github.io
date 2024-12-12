@@ -13,7 +13,8 @@ website: dardeery.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dardeery" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/dardeery?trk=profile-badge">Islam Dardeery</a></div>
+              
 # Social links
 # twitter_username: facespics
 github_username:  dardeery
